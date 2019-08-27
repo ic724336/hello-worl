@@ -1,7 +1,12 @@
 # hello-worl
+
+
 Proyecto inicial para aprender a manejar y usar git y github
 
 
-## Esta es una modificacion
 
-Que se hizo en la rama readme-edits
+
+Lista para ver cambio en el repositorio local 
+
++Cambio 1
++Cambio 2 
